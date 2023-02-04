@@ -1,8 +1,9 @@
 # Fetch-Take-Home-Assesment
-mycode.py file is the python file where the code is written to solve the problem.
+The solution to the problem is written in the mycode.py file.
 
-Steps to run the file
-1) Create a file called as transactions.csv in the same directory where mycode.py file is stored. A sample transactions.csv file is provided for reference.
-2) Go to terminal and run the following command "python mycode.py 5000". The number 5000 is an argument that is passed to the code. The value can be changed according to your needs.
-3) You will get the output on the terminal.
-4) If the amount of points are more compared to available points, the you will get an output which says "Insufficient points". 
+Instructions to Execute:
+
+Create a file named transactions.csv in the same directory as mycode.py. A sample transactions.csv is provided for your reference.
+Open the terminal and run the following command: python mycode.py 5000. The number 5000 is a argument that can be adjusted based on your requirements.
+The output will be displayed on the terminal.
+If the number of points exceed the available points, the output will state "Insufficient points".
